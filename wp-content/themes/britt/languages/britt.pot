@@ -1,0 +1,423 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-05-10 17:43+0300\n"
+"PO-Revision-Date: 2016-05-10 17:43+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__;__;_e;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "404"
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:40 comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:65
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:66
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:28
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:28
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: footer.php:30
+#, php-format
+msgid "Theme: %2$s by %1$s"
+msgstr ""
+
+#: functions.php:51
+msgid "Primary"
+msgstr ""
+
+#: functions.php:52
+msgid "Social"
+msgstr ""
+
+#: functions.php:114
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:181
+msgid "Posted in "
+msgstr ""
+
+#: functions.php:181 inc/functions.php:52
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:29
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer.php:68
+msgid "Remove site title decorations?"
+msgstr ""
+
+#: inc/customizer.php:78
+msgid "Featured categories"
+msgstr ""
+
+#: inc/customizer.php:86 inc/functions.php:107
+msgid "Hot topics"
+msgstr ""
+
+#: inc/customizer.php:92
+msgid "Featured categories title"
+msgstr ""
+
+#: inc/customizer.php:109
+msgid "Featured category "
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Hide the featured categories section?"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Carousel"
+msgstr ""
+
+#: inc/customizer.php:145 inc/functions.php:14
+msgid "Latest news"
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Carousel title"
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "Posts IDs"
+msgstr ""
+
+#: inc/customizer.php:168
+msgid ""
+"Add a comma separated list of post IDs to display in the carousel (e.g. "
+"344,345,932) - See how to find post IDs "
+msgstr ""
+
+#: inc/customizer.php:168
+msgid "here"
+msgstr ""
+
+#: inc/customizer.php:186
+msgid "Hide the carousel on single posts?"
+msgstr ""
+
+#: inc/customizer.php:197
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer.php:213
+msgid "Sticky widgets"
+msgstr ""
+
+#: inc/customizer.php:217
+msgid "On"
+msgstr ""
+
+#: inc/customizer.php:218
+msgid "Off"
+msgstr ""
+
+#: inc/customizer.php:230
+msgid "Single posts"
+msgstr ""
+
+#: inc/customizer.php:249
+msgid "Featured images"
+msgstr ""
+
+#: inc/customizer.php:251
+msgid "Featured image display for single posts"
+msgstr ""
+
+#: inc/customizer.php:253
+msgid "In post"
+msgstr ""
+
+#: inc/customizer.php:254
+msgid "Above post (recommended only if you have large featured images)"
+msgstr ""
+
+#: inc/customizer.php:255
+msgid "None"
+msgstr ""
+
+#: inc/customizer.php:268
+msgid "Index and archives posts"
+msgstr ""
+
+#: inc/customizer.php:280 index.php:39
+msgid ""
+"<p>LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT.</p><a class="
+"\"button\" target=\"_blank\" href=\"http://example.org\">LEARN MORE</a>"
+msgstr ""
+
+#: inc/customizer.php:286
+msgid "Call to action area"
+msgstr ""
+
+#: inc/customizer.php:287
+msgid ""
+"This is the ribbon that displays on your homepage after the first two posts. "
+"HTML is supported. Leave empty to disable."
+msgstr ""
+
+#: inc/customizer.php:307
+msgid "Primary color"
+msgstr ""
+
+#: inc/customizer.php:326
+msgid "Menu background"
+msgstr ""
+
+#: inc/customizer.php:344
+msgid "Menu items"
+msgstr ""
+
+#: inc/customizer.php:363
+msgid "Header background"
+msgstr ""
+
+#: inc/customizer.php:382 inc/customizer.php:558
+msgid "Site title"
+msgstr ""
+
+#: inc/customizer.php:401 inc/customizer.php:578
+msgid "Site description"
+msgstr ""
+
+#: inc/customizer.php:420
+msgid "Title panels"
+msgstr ""
+
+#: inc/customizer.php:439
+msgid "Body text"
+msgstr ""
+
+#: inc/customizer.php:458
+msgid "Footer background"
+msgstr ""
+
+#: inc/customizer.php:469
+msgid "Fonts"
+msgstr ""
+
+#: inc/customizer.php:471
+msgid ""
+"For help selecting fonts see the <a href=\"http://theme.blue/documentation/"
+"britt\" target=\"_blank\">documentation</a>. The font list is here: google."
+"com/fonts"
+msgstr ""
+
+#: inc/customizer.php:486
+msgid "Body font"
+msgstr ""
+
+#: inc/customizer.php:504
+msgid "Body font family"
+msgstr ""
+
+#: inc/customizer.php:521
+msgid "Headings font"
+msgstr ""
+
+#: inc/customizer.php:538
+msgid "Headings font family"
+msgstr ""
+
+#: inc/customizer.php:598
+msgid "H1 font size"
+msgstr ""
+
+#: inc/customizer.php:618
+msgid "H2 font size"
+msgstr ""
+
+#: inc/customizer.php:639
+msgid "H3 font size"
+msgstr ""
+
+#: inc/customizer.php:659
+msgid "H4 font size"
+msgstr ""
+
+#: inc/customizer.php:679
+msgid "H5 font size"
+msgstr ""
+
+#: inc/customizer.php:699
+msgid "H6 font size"
+msgstr ""
+
+#: inc/customizer.php:719
+msgid "Body font size"
+msgstr ""
+
+#: inc/template-tags.php:53 inc/template-tags.php:59
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:55
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:61
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:67
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:67 inc/template-tags.php:86
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:67 inc/template-tags.php:86
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:74 template-parts/content-page.php:39
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:86
+msgid "0 comments"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:28 template-parts/content-single.php:54
+#: template-parts/content.php:44
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:65
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content.php:21
+msgid "Continue reading"
+msgstr ""
+
+#: widgets/about-me.php:6
+msgid "About me widget."
+msgstr ""
+
+#: widgets/about-me.php:8
+msgid "Britt: About me"
+msgstr ""
+
+#: widgets/about-me.php:47
+msgid "Title:"
+msgstr ""
+
+#: widgets/about-me.php:50
+msgid "Enter the URL for your photo"
+msgstr ""
+
+#: widgets/about-me.php:53
+msgid "Add your text:"
+msgstr ""
+
+#: widgets/about-me.php:56
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: widgets/recent-posts.php:6
+msgid "Recent posts with thumbnails."
+msgstr ""
+
+#: widgets/recent-posts.php:7
+msgid "Britt: Recent Posts"
+msgstr ""
+
+#: widgets/recent-posts.php:18 widgets/video-widget.php:24
+msgid "Title"
+msgstr ""
+
+#: widgets/recent-posts.php:22
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widgets/recent-posts.php:26
+msgid "Display post date?"
+msgstr ""
+
+#: widgets/video-widget.php:6
+msgid "Display an oEmbed video."
+msgstr ""
+
+#: widgets/video-widget.php:7
+msgid "Britt: Video"
+msgstr ""
+
+#: widgets/video-widget.php:28
+msgid "Add the URL of the video (from Youtube or Vimeo):"
+msgstr ""
